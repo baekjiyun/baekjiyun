@@ -1,5 +1,9 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&section=header&text=Jiyun%20Baek)
 
+<div align=center>
+
+### 🛠 Tech Stack 🛠
+</div>
 <!--
 **baekjiyun/baekjiyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
